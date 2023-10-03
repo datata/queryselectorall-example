@@ -1,0 +1,37 @@
+body {
+  display:flex;
+  min-height: 100vh;
+  min-width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  margin: 10px;
+
+  font-size: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.bg-color-red {
+  background-color: red;
+}
+
+.bg-color-yellow {
+  background-color: yellow;
+}
+
+.bg-color-orange {
+  background-color: orange;
+}
+
+.bg-color-green {
+  background-color: green;
+}
