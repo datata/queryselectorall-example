@@ -1,4 +1,3 @@
-console.log('esto es de locos');
 // Este codigo simplifica el código comentado
 const boxes = document.querySelectorAll(".box");
 
